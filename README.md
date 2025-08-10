@@ -1,8 +1,7 @@
 # 📊 Customer Insights and Revenue Optimization Analysis
 
 ## 📌 Project Overview
-This project uses **SQL** to analyze customer behavior, subscription performance, support efficiency, and payment success rates.  
-The goal is to uncover actionable insights that help optimize **retention, revenue growth, and operational efficiency**.
+This project uses **SQL** to analyze customer behavior, subscription performance, support efficiency, and payment success rates.The goal is to uncover actionable insights that help optimize **retention, revenue growth, and operational efficiency**.
 
 ---
 
