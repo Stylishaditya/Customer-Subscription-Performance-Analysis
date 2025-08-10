@@ -1,39 +1,56 @@
 # 📊 Customer Insights and Revenue Optimization Analysis
 
 ## 📌 Project Overview
-This project uses **SQL** to analyze customer behavior, subscription performance, support efficiency, and payment success rates.The goal is to uncover actionable insights that help optimize **retention, revenue growth, and operational efficiency**.
-
+This project uses **SQL** to analyzes customer, usage, payment, and support ticket data for a subscription-based business.  
+The aim is to answer key business questions that provide insights into customer behavior, revenue trends, platform performance, and support efficiency.
 ---
 
 ## 🎯 Objective
 
-- The most effective growth channels and platforms
-- Factors affecting customer retention and churn
-- High-impact issues affecting user satisfaction
-- Opportunities to improve payment success rates
-- Insights that can guide revenue optimization and business strategy
+- Understand Customer Demographics
+- Track Revenue Trends
+- Measure Engagement
+- Analyze Payment Performance
+- Improve Customer Support
 
 ---
 
 ## 🗂 Dataset
 The analysis is based on three main tables:
 
-- **customers** — stores customer profile and subscription details.
-- **payments** —  amount enables revenue calculations and allows for trend analysis.
-- **support** — contains customer support tickets, issues, and resolution details.
-- **usagedata** — records daily customer usage activity and platform information.
+1. **customers.csv** – Customer details including signup date, location, age, subscription type, and signup channel.
+2. **usage.csv** – Platform usage data including activity date, minutes used, device, content category, and platform.
+3. **payments.csv** – Payment transactions with details like payment amount, status, date, and method.
+4. **support_tickets.csv** – Customer support ticket details including issue type, resolution time, and outcome.
+
+---
+
+## 🎯 Business Questions Addressed
+1. What is the average age of customers by subscription type and location?
+2. Which signup channel brings in the most Premium subscribers?
+3. How many customers have been active for more than 6 months since signup?
+4. What percentage of customers from each location are Premium users?
+5. Which content category has the highest total minutes watched per month?
+6. Do Premium subscribers use the platform for more minutes on average than Basic ones?
+7. Is there a seasonal trend in average daily usage minutes?
+8. What is the total revenue per month by payment method?
+9. Which subscription type contributes the most to revenue?
+10. What is the payment failure rate by payment method?
+11. Are Premium subscribers more likely to have successful payments than Basic ones?
+12. Which issue type has the longest average resolution time?
+13. How many customers opened more than one support ticket in the last 6 months?
+14. Which top 3 platforms (Netflix, Spotify, Disney+, etc.) generate the most revenue?
+15. How many new customers join each year by platform?
 
 ---
 
 ## 📊 Findings & Conclusion
 
-- Premium customers show higher retention rates and better payment success compared to Basic users.
-- Technical issues are the most common for Premium members, while Basic users face more account-related problems.
-- High monthly usage correlates strongly with higher subscription spending, indicating engagement drives revenue growth.
-- Mobile platforms lead in new customer acquisition, making them a primary focus for marketing strategies.
-- Customers with multiple support tickets in short periods may have lower retention if resolution times are long.
-- Faster issue resolution can improve satisfaction and prevent churn.
-- Targeted platform-specific campaigns and engagement initiatives can further enhance revenue and customer loyalty.
+- Premium users are younger and show higher engagement compared to Basic users.
+- Netflix, Spotify, and Disney+ are the top revenue-generating platforms.
+- Premium subscriptions drive most of the revenue, especially via Wallet and NetBanking.
+- NetBanking has a higher payment failure rate, indicating a need for improvement.
+- Content Requests take the longest to resolve, affecting customer satisfaction.
 
 ---
 
@@ -43,4 +60,15 @@ The analysis is based on three main tables:
 - **Date Functions** (`YEAR()`, `MONTHNAME()`, `DATE_SUB()`)  
 - **Window Functions** (`RANK() OVER`, `PARTITION BY`)  
 - **Grouping & Ordering** (`GROUP BY`, `ORDER BY`)  
-- **Filtering** (`WHERE`, `HAVING`)  
+- **Filtering** (`WHERE`, `HAVING`)
+
+---
+
+## 🚀 How to Use
+1. Import the datasets into MySQL.
+2. Run the SQL queries provided in the `/queries` folder to answer each business question.
+3. Analyze the output to generate actionable insights.
+
+---
+
+💡 *Author: Tulsidas Telange*
