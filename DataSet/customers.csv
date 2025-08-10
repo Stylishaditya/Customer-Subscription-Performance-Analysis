@@ -1,0 +1,1001 @@
+﻿customer_id,signup_date,location,age,subscription_type,signup_channel
+C100000,2024-12-24,Ahmedabad,45,Basic,App Store
+C100001,2025-06-19,Chennai,25,Premium,Ad Campaign
+C100002,2024-01-24,Pune,45,Basic,Referral
+C100003,2024-03-26,Surat,55,Basic,Organic
+C100004,2024-05-09,Kolkata,55,Basic,App Store
+C100005,2024-10-28,Chennai,45,Standard,Organic
+C100006,2025-01-12,Delhi,18,Basic,Partner
+C100007,2025-02-12,Hyderabad,25,Standard,Organic
+C100008,2023-03-29,Ahmedabad,55,Standard,App Store
+C100009,2025-06-05,Mumbai,25,Basic,App Store
+C100010,2025-06-09,Surat,55,Basic,Partner
+C100011,2025-01-30,Jaipur,35,Basic,Partner
+C100012,2024-05-19,Chennai,45,Basic,Ad Campaign
+C100013,2024-04-20,Surat,55,Standard,App Store
+C100014,2022-10-10,Hyderabad,45,Basic,Organic
+C100015,2025-06-16,Delhi,35,Standard,Partner
+C100016,2024-06-28,Ahmedabad,25,Standard,Organic
+C100017,2023-04-03,Pune,45,Premium,Partner
+C100018,2024-05-15,Kolkata,55,Basic,App Store
+C100019,2023-02-02,Delhi,35,Basic,Partner
+C100020,2024-01-18,Bengaluru,55,Basic,App Store
+C100021,2025-07-27,Mumbai,35,Basic,Partner
+C100022,2024-09-17,Mumbai,35,Standard,Ad Campaign
+C100023,2023-03-28,Pune,55,Basic,Partner
+C100024,2023-09-13,Ahmedabad,45,Basic,Ad Campaign
+C100025,2024-01-18,Delhi,25,Premium,Ad Campaign
+C100026,2024-09-25,Delhi,25,Basic,Organic
+C100027,2024-05-26,Hyderabad,35,Standard,App Store
+C100028,2023-09-20,Jaipur,55,Standard,Partner
+C100029,2025-01-12,Bengaluru,35,Basic,Partner
+C100030,2025-02-01,Kolkata,25,Premium,Referral
+C100031,2023-06-23,Ahmedabad,35,Basic,Partner
+C100032,2025-01-23,Chennai,35,Standard,App Store
+C100033,2023-08-05,Jaipur,25,Basic,App Store
+C100034,2023-09-05,Kolkata,45,Standard,Partner
+C100035,2024-02-15,Surat,35,Basic,Ad Campaign
+C100036,2025-05-13,Bengaluru,45,Standard,Referral
+C100037,2023-01-12,Kolkata,35,Standard,App Store
+C100038,2024-11-27,Delhi,55,Basic,Referral
+C100039,2023-06-26,Ahmedabad,35,Basic,Referral
+C100040,2025-03-01,Surat,35,Standard,App Store
+C100041,2023-12-18,Kolkata,18,Premium,Ad Campaign
+C100042,2023-07-31,Pune,55,Basic,Ad Campaign
+C100043,2024-07-12,Mumbai,55,Basic,App Store
+C100044,2025-03-20,Chennai,45,Standard,Partner
+C100045,2025-05-08,Hyderabad,45,Standard,Partner
+C100046,2024-04-30,Ahmedabad,35,Basic,Referral
+C100047,2023-12-26,Ahmedabad,25,Premium,Partner
+C100048,2025-02-27,Hyderabad,35,Basic,Referral
+C100049,2024-04-20,Chennai,18,Basic,Partner
+C100050,2025-01-15,Delhi,35,Basic,Ad Campaign
+C100051,2023-06-23,Chennai,18,Basic,Ad Campaign
+C100052,2024-01-18,Jaipur,35,Standard,Ad Campaign
+C100053,2023-01-24,Chennai,45,Standard,Partner
+C100054,2023-07-24,Mumbai,35,Standard,Referral
+C100055,2024-09-10,Kolkata,45,Standard,Referral
+C100056,2023-07-13,Pune,25,Standard,Ad Campaign
+C100057,2023-08-13,Hyderabad,25,Standard,Ad Campaign
+C100058,2024-06-06,Delhi,55,Standard,Partner
+C100059,2024-02-10,Ahmedabad,35,Basic,Partner
+C100060,2025-03-16,Delhi,55,Standard,Referral
+C100061,2024-08-24,Hyderabad,35,Standard,Organic
+C100062,2022-08-12,Surat,25,Standard,Referral
+C100063,2024-03-26,Mumbai,18,Basic,Partner
+C100064,2024-09-09,Mumbai,55,Basic,App Store
+C100065,2023-01-06,Chennai,55,Premium,Partner
+C100066,2023-06-24,Hyderabad,25,Premium,Partner
+C100067,2024-02-04,Bengaluru,25,Basic,App Store
+C100068,2024-05-17,Surat,18,Basic,Partner
+C100069,2023-10-15,Hyderabad,55,Basic,Referral
+C100070,2025-04-17,Delhi,25,Standard,App Store
+C100071,2024-04-27,Jaipur,25,Standard,Organic
+C100072,2025-06-05,Hyderabad,18,Premium,Partner
+C100073,2023-11-02,Surat,18,Premium,Organic
+C100074,2023-05-11,Hyderabad,45,Premium,Organic
+C100075,2024-02-08,Hyderabad,35,Basic,App Store
+C100076,2025-03-27,Chennai,45,Premium,Ad Campaign
+C100077,2024-06-03,Bengaluru,18,Standard,Organic
+C100078,2023-11-04,Surat,25,Basic,Organic
+C100079,2024-05-31,Mumbai,18,Standard,Ad Campaign
+C100080,2022-10-22,Pune,55,Standard,Referral
+C100081,2023-05-22,Bengaluru,25,Premium,Ad Campaign
+C100082,2023-01-13,Bengaluru,45,Standard,Referral
+C100083,2024-10-21,Jaipur,45,Basic,Referral
+C100084,2024-02-14,Pune,45,Basic,Ad Campaign
+C100085,2024-10-28,Bengaluru,25,Basic,Organic
+C100086,2024-03-22,Delhi,35,Basic,Referral
+C100087,2024-02-18,Mumbai,35,Basic,Ad Campaign
+C100088,2023-03-16,Bengaluru,35,Standard,Partner
+C100089,2023-05-15,Mumbai,18,Standard,Organic
+C100090,2023-07-30,Chennai,18,Standard,Referral
+C100091,2024-05-17,Hyderabad,55,Standard,App Store
+C100092,2024-10-30,Surat,25,Basic,Organic
+C100093,2022-10-01,Chennai,55,Standard,Partner
+C100094,2022-11-03,Mumbai,18,Basic,Partner
+C100095,2025-02-04,Bengaluru,25,Standard,Ad Campaign
+C100096,2025-05-05,Pune,45,Standard,Partner
+C100097,2024-12-28,Mumbai,25,Basic,App Store
+C100098,2024-09-30,Bengaluru,18,Basic,Ad Campaign
+C100099,2024-09-16,Kolkata,45,Standard,Partner
+C100100,2023-03-29,Jaipur,45,Basic,Referral
+C100101,2025-04-01,Delhi,25,Standard,Organic
+C100102,2023-06-13,Delhi,35,Standard,App Store
+C100103,2023-06-20,Ahmedabad,18,Basic,App Store
+C100104,2022-12-25,Ahmedabad,18,Standard,App Store
+C100105,2022-08-22,Chennai,35,Standard,Referral
+C100106,2024-03-13,Jaipur,55,Standard,Partner
+C100107,2025-07-17,Surat,55,Basic,Organic
+C100108,2024-12-18,Delhi,18,Standard,Organic
+C100109,2024-02-10,Ahmedabad,35,Standard,Referral
+C100110,2023-09-13,Jaipur,35,Standard,Ad Campaign
+C100111,2024-12-24,Hyderabad,45,Basic,Partner
+C100112,2023-12-17,Surat,55,Basic,App Store
+C100113,2023-03-03,Mumbai,55,Basic,Ad Campaign
+C100114,2024-09-20,Jaipur,45,Basic,Referral
+C100115,2023-01-23,Pune,25,Standard,Partner
+C100116,2025-08-03,Ahmedabad,55,Basic,Partner
+C100117,2024-02-17,Mumbai,45,Standard,Partner
+C100118,2022-10-19,Mumbai,35,Standard,Ad Campaign
+C100119,2024-08-09,Ahmedabad,25,Basic,Ad Campaign
+C100120,2022-10-05,Kolkata,18,Standard,Referral
+C100121,2025-01-04,Kolkata,35,Standard,App Store
+C100122,2023-12-07,Delhi,25,Basic,Ad Campaign
+C100123,2022-10-05,Ahmedabad,45,Premium,Organic
+C100124,2024-06-28,Ahmedabad,35,Standard,Ad Campaign
+C100125,2024-09-30,Delhi,25,Standard,Ad Campaign
+C100126,2023-07-06,Delhi,18,Standard,Partner
+C100127,2024-09-13,Chennai,35,Basic,Organic
+C100128,2022-08-19,Surat,35,Basic,App Store
+C100129,2025-08-08,Bengaluru,55,Standard,Organic
+C100130,2023-10-16,Delhi,25,Basic,App Store
+C100131,2022-11-13,Bengaluru,25,Premium,Referral
+C100132,2025-07-01,Pune,55,Standard,Partner
+C100133,2024-12-23,Surat,45,Basic,Referral
+C100134,2023-07-28,Surat,45,Standard,Ad Campaign
+C100135,2023-11-19,Jaipur,55,Basic,Ad Campaign
+C100136,2024-04-06,Chennai,35,Basic,Partner
+C100137,2025-04-13,Kolkata,18,Standard,Referral
+C100138,2024-04-03,Surat,45,Standard,Organic
+C100139,2025-03-01,Jaipur,18,Basic,Referral
+C100140,2025-02-15,Pune,25,Basic,App Store
+C100141,2022-11-18,Ahmedabad,25,Basic,Ad Campaign
+C100142,2025-03-21,Jaipur,45,Basic,Organic
+C100143,2022-08-15,Surat,35,Standard,Ad Campaign
+C100144,2024-11-25,Kolkata,25,Basic,Referral
+C100145,2024-11-20,Delhi,18,Basic,Partner
+C100146,2022-12-10,Delhi,35,Basic,Organic
+C100147,2024-09-05,Jaipur,45,Standard,Partner
+C100148,2024-02-14,Hyderabad,25,Standard,Referral
+C100149,2022-08-25,Kolkata,45,Basic,App Store
+C100150,2023-03-27,Ahmedabad,35,Standard,Partner
+C100151,2024-06-02,Hyderabad,35,Basic,Partner
+C100152,2024-06-24,Kolkata,35,Premium,Referral
+C100153,2023-11-10,Chennai,55,Basic,Organic
+C100154,2023-05-15,Ahmedabad,55,Basic,Referral
+C100155,2023-07-07,Kolkata,18,Basic,Partner
+C100156,2023-02-24,Kolkata,35,Basic,Ad Campaign
+C100157,2022-09-15,Delhi,35,Premium,Ad Campaign
+C100158,2023-01-28,Chennai,25,Premium,Partner
+C100159,2024-12-05,Kolkata,18,Standard,Organic
+C100160,2024-03-20,Chennai,18,Premium,Partner
+C100161,2024-05-06,Pune,45,Standard,Ad Campaign
+C100162,2025-03-31,Chennai,35,Basic,App Store
+C100163,2023-09-17,Bengaluru,25,Basic,Partner
+C100164,2025-06-27,Ahmedabad,45,Basic,Partner
+C100165,2024-04-25,Delhi,55,Standard,App Store
+C100166,2024-05-15,Delhi,35,Basic,Organic
+C100167,2025-07-26,Delhi,18,Basic,Referral
+C100168,2025-03-17,Delhi,35,Basic,Ad Campaign
+C100169,2025-04-11,Kolkata,35,Standard,Ad Campaign
+C100170,2024-04-28,Delhi,55,Premium,Referral
+C100171,2025-03-24,Chennai,25,Basic,Referral
+C100172,2025-06-06,Bengaluru,25,Standard,Referral
+C100173,2023-10-03,Jaipur,25,Premium,Referral
+C100174,2025-03-17,Mumbai,45,Premium,Ad Campaign
+C100175,2022-09-22,Surat,25,Basic,Partner
+C100176,2024-04-09,Jaipur,45,Basic,Partner
+C100177,2024-01-17,Jaipur,55,Basic,App Store
+C100178,2022-11-19,Chennai,35,Standard,Partner
+C100179,2024-05-28,Delhi,45,Basic,Organic
+C100180,2024-11-12,Kolkata,55,Standard,Organic
+C100181,2022-12-15,Chennai,45,Basic,Referral
+C100182,2024-03-30,Kolkata,55,Basic,App Store
+C100183,2022-12-15,Mumbai,25,Standard,Ad Campaign
+C100184,2023-04-29,Pune,25,Basic,Partner
+C100185,2024-07-16,Surat,55,Standard,Partner
+C100186,2025-01-28,Pune,18,Basic,Ad Campaign
+C100187,2025-01-23,Chennai,55,Standard,Organic
+C100188,2023-03-11,Delhi,45,Basic,Referral
+C100189,2023-08-15,Surat,55,Standard,App Store
+C100190,2023-03-26,Jaipur,35,Basic,Organic
+C100191,2023-04-21,Hyderabad,18,Premium,App Store
+C100192,2022-12-27,Bengaluru,55,Standard,Referral
+C100193,2025-04-21,Ahmedabad,18,Basic,Partner
+C100194,2025-01-20,Hyderabad,18,Basic,Referral
+C100195,2025-04-07,Delhi,55,Basic,Organic
+C100196,2023-05-08,Chennai,55,Basic,Partner
+C100197,2023-09-15,Jaipur,25,Basic,Referral
+C100198,2024-12-29,Chennai,55,Standard,Partner
+C100199,2024-03-18,Delhi,55,Premium,Partner
+C100200,2024-07-13,Pune,25,Premium,App Store
+C100201,2024-07-16,Surat,25,Basic,App Store
+C100202,2023-02-03,Hyderabad,35,Standard,Organic
+C100203,2024-10-26,Kolkata,55,Standard,Referral
+C100204,2023-03-29,Jaipur,45,Standard,Ad Campaign
+C100205,2024-07-30,Surat,18,Basic,Referral
+C100206,2024-01-17,Surat,25,Standard,Partner
+C100207,2023-01-05,Jaipur,55,Basic,Organic
+C100208,2024-03-16,Mumbai,45,Basic,Organic
+C100209,2025-03-08,Surat,18,Basic,Ad Campaign
+C100210,2023-02-14,Pune,55,Premium,Partner
+C100211,2025-01-21,Mumbai,45,Standard,Partner
+C100212,2025-04-28,Bengaluru,18,Basic,Organic
+C100213,2025-07-10,Pune,45,Premium,Organic
+C100214,2025-01-30,Pune,25,Premium,Ad Campaign
+C100215,2024-04-12,Chennai,55,Standard,Ad Campaign
+C100216,2024-09-03,Chennai,45,Standard,App Store
+C100217,2023-04-30,Mumbai,45,Basic,Organic
+C100218,2022-11-19,Bengaluru,55,Premium,Ad Campaign
+C100219,2022-11-28,Bengaluru,18,Basic,Partner
+C100220,2024-05-29,Surat,55,Basic,App Store
+C100221,2023-05-11,Kolkata,45,Basic,Organic
+C100222,2025-04-11,Delhi,35,Standard,Ad Campaign
+C100223,2024-09-06,Bengaluru,18,Basic,Organic
+C100224,2023-06-25,Mumbai,45,Standard,App Store
+C100225,2025-08-05,Delhi,35,Basic,Referral
+C100226,2023-06-02,Jaipur,18,Premium,Organic
+C100227,2024-02-13,Hyderabad,25,Basic,Organic
+C100228,2023-01-21,Kolkata,55,Basic,Organic
+C100229,2024-01-03,Kolkata,18,Basic,Organic
+C100230,2023-03-27,Ahmedabad,18,Standard,Ad Campaign
+C100231,2022-11-17,Chennai,45,Standard,Referral
+C100232,2024-09-26,Bengaluru,35,Standard,Partner
+C100233,2024-07-17,Chennai,18,Basic,Organic
+C100234,2023-12-11,Pune,55,Basic,Partner
+C100235,2024-05-21,Chennai,18,Basic,Ad Campaign
+C100236,2025-04-12,Surat,18,Basic,Referral
+C100237,2025-04-07,Surat,45,Standard,App Store
+C100238,2023-11-06,Delhi,18,Standard,App Store
+C100239,2025-04-14,Mumbai,35,Basic,App Store
+C100240,2025-04-29,Bengaluru,45,Basic,App Store
+C100241,2022-12-07,Bengaluru,25,Basic,App Store
+C100242,2022-10-15,Surat,25,Basic,Referral
+C100243,2022-08-18,Mumbai,45,Standard,Organic
+C100244,2024-09-21,Delhi,35,Premium,App Store
+C100245,2025-04-15,Pune,45,Basic,Organic
+C100246,2022-10-04,Ahmedabad,45,Basic,Partner
+C100247,2025-02-26,Kolkata,45,Basic,Organic
+C100248,2024-07-25,Ahmedabad,45,Basic,Partner
+C100249,2025-03-22,Surat,18,Basic,Organic
+C100250,2025-03-23,Ahmedabad,55,Standard,Partner
+C100251,2024-04-15,Kolkata,25,Standard,Organic
+C100252,2023-05-06,Pune,35,Standard,Organic
+C100253,2024-12-07,Hyderabad,18,Basic,Referral
+C100254,2024-03-23,Jaipur,25,Standard,Partner
+C100255,2025-05-20,Delhi,55,Basic,Organic
+C100256,2025-02-23,Chennai,45,Basic,Referral
+C100257,2023-04-04,Kolkata,55,Basic,Referral
+C100258,2022-09-04,Delhi,25,Basic,Partner
+C100259,2023-11-01,Pune,25,Standard,Organic
+C100260,2024-02-22,Surat,18,Standard,Referral
+C100261,2024-06-17,Ahmedabad,18,Basic,App Store
+C100262,2023-11-05,Jaipur,35,Premium,App Store
+C100263,2024-04-08,Pune,45,Basic,App Store
+C100264,2024-02-13,Mumbai,55,Basic,Organic
+C100265,2023-05-22,Hyderabad,45,Basic,App Store
+C100266,2024-11-14,Kolkata,55,Standard,Ad Campaign
+C100267,2023-12-04,Surat,45,Basic,Partner
+C100268,2023-01-16,Mumbai,25,Basic,Ad Campaign
+C100269,2023-11-01,Mumbai,25,Standard,Ad Campaign
+C100270,2025-03-14,Hyderabad,45,Basic,App Store
+C100271,2025-07-21,Pune,35,Basic,Partner
+C100272,2023-01-14,Hyderabad,25,Standard,Referral
+C100273,2025-01-17,Bengaluru,35,Premium,Ad Campaign
+C100274,2025-03-12,Pune,25,Basic,Referral
+C100275,2024-05-30,Pune,18,Standard,Referral
+C100276,2022-10-08,Chennai,18,Basic,Organic
+C100277,2024-02-13,Delhi,45,Standard,Partner
+C100278,2024-11-11,Mumbai,55,Standard,Partner
+C100279,2023-08-26,Ahmedabad,18,Standard,Ad Campaign
+C100280,2025-03-22,Kolkata,25,Basic,Organic
+C100281,2024-03-27,Bengaluru,25,Standard,Organic
+C100282,2023-07-15,Bengaluru,18,Basic,Organic
+C100283,2024-01-04,Kolkata,18,Basic,Partner
+C100284,2024-09-20,Jaipur,55,Premium,Partner
+C100285,2023-02-24,Hyderabad,18,Basic,App Store
+C100286,2023-11-29,Jaipur,45,Basic,Partner
+C100287,2022-08-22,Jaipur,55,Premium,Partner
+C100288,2025-07-24,Chennai,18,Standard,Organic
+C100289,2023-12-05,Delhi,25,Basic,Referral
+C100290,2025-01-09,Kolkata,18,Basic,Ad Campaign
+C100291,2024-11-07,Mumbai,45,Basic,Referral
+C100292,2024-02-15,Kolkata,45,Basic,Ad Campaign
+C100293,2024-12-16,Mumbai,25,Standard,App Store
+C100294,2025-01-02,Ahmedabad,55,Standard,Partner
+C100295,2024-09-25,Delhi,25,Basic,Ad Campaign
+C100296,2024-01-30,Chennai,18,Basic,Ad Campaign
+C100297,2024-01-10,Surat,25,Standard,Ad Campaign
+C100298,2024-06-04,Kolkata,55,Basic,Ad Campaign
+C100299,2023-09-07,Surat,35,Basic,Partner
+C100300,2024-06-19,Kolkata,25,Basic,Referral
+C100301,2024-02-16,Kolkata,55,Basic,Ad Campaign
+C100302,2022-10-09,Pune,35,Premium,Organic
+C100303,2022-11-13,Delhi,55,Basic,Ad Campaign
+C100304,2024-03-13,Kolkata,55,Standard,Partner
+C100305,2025-04-27,Mumbai,35,Basic,Organic
+C100306,2025-02-01,Chennai,25,Basic,Partner
+C100307,2023-03-26,Bengaluru,35,Basic,App Store
+C100308,2024-01-21,Surat,25,Standard,Partner
+C100309,2025-05-11,Ahmedabad,55,Basic,Organic
+C100310,2025-08-02,Chennai,25,Basic,Referral
+C100311,2023-09-26,Delhi,45,Basic,Organic
+C100312,2024-11-15,Kolkata,35,Basic,Referral
+C100313,2024-02-20,Delhi,35,Premium,Organic
+C100314,2024-09-13,Hyderabad,18,Standard,Ad Campaign
+C100315,2023-02-17,Kolkata,55,Standard,Partner
+C100316,2023-03-18,Surat,55,Standard,App Store
+C100317,2025-07-21,Kolkata,25,Standard,Referral
+C100318,2024-12-23,Jaipur,45,Premium,Referral
+C100319,2025-03-08,Delhi,55,Standard,Ad Campaign
+C100320,2024-10-08,Kolkata,45,Basic,Ad Campaign
+C100321,2025-05-28,Pune,18,Standard,Organic
+C100322,2023-07-15,Chennai,35,Basic,Referral
+C100323,2024-10-10,Hyderabad,45,Premium,Partner
+C100324,2023-03-13,Chennai,55,Standard,Organic
+C100325,2024-11-21,Bengaluru,35,Basic,Ad Campaign
+C100326,2025-05-16,Delhi,45,Basic,Referral
+C100327,2023-11-17,Jaipur,45,Basic,App Store
+C100328,2023-07-25,Delhi,25,Basic,App Store
+C100329,2025-05-20,Jaipur,35,Premium,Referral
+C100330,2023-08-08,Jaipur,45,Standard,Partner
+C100331,2024-06-05,Hyderabad,25,Basic,Referral
+C100332,2024-03-16,Chennai,55,Premium,Partner
+C100333,2025-01-11,Chennai,45,Standard,Ad Campaign
+C100334,2023-08-16,Bengaluru,25,Standard,Partner
+C100335,2023-04-30,Hyderabad,25,Premium,Partner
+C100336,2024-09-27,Delhi,35,Premium,Referral
+C100337,2024-04-12,Bengaluru,25,Basic,Referral
+C100338,2024-09-11,Pune,45,Standard,App Store
+C100339,2024-08-12,Hyderabad,18,Basic,Ad Campaign
+C100340,2023-04-18,Bengaluru,55,Standard,Organic
+C100341,2025-06-20,Surat,45,Premium,Referral
+C100342,2024-08-07,Bengaluru,45,Basic,Ad Campaign
+C100343,2023-09-29,Delhi,55,Premium,Ad Campaign
+C100344,2023-04-19,Bengaluru,55,Basic,App Store
+C100345,2024-03-19,Ahmedabad,25,Standard,Referral
+C100346,2024-02-10,Ahmedabad,45,Standard,Referral
+C100347,2024-09-17,Surat,25,Basic,Ad Campaign
+C100348,2024-12-31,Surat,35,Standard,Referral
+C100349,2023-06-18,Ahmedabad,25,Standard,App Store
+C100350,2025-05-22,Surat,35,Basic,App Store
+C100351,2022-12-20,Surat,18,Standard,App Store
+C100352,2024-05-11,Chennai,45,Standard,Referral
+C100353,2024-06-27,Chennai,35,Standard,Referral
+C100354,2023-01-10,Bengaluru,18,Premium,App Store
+C100355,2023-08-24,Ahmedabad,55,Basic,Partner
+C100356,2023-11-23,Delhi,25,Standard,Organic
+C100357,2024-04-30,Ahmedabad,18,Premium,Ad Campaign
+C100358,2024-05-10,Ahmedabad,35,Standard,Partner
+C100359,2025-06-22,Pune,45,Standard,Organic
+C100360,2024-07-10,Pune,55,Basic,Referral
+C100361,2023-05-16,Surat,55,Premium,Ad Campaign
+C100362,2023-10-07,Mumbai,18,Premium,Partner
+C100363,2024-01-17,Chennai,18,Basic,Ad Campaign
+C100364,2025-03-20,Jaipur,25,Basic,Referral
+C100365,2024-01-16,Delhi,55,Basic,Organic
+C100366,2023-08-21,Pune,55,Basic,Organic
+C100367,2022-10-01,Ahmedabad,25,Basic,Organic
+C100368,2023-05-14,Ahmedabad,45,Basic,Partner
+C100369,2023-10-01,Mumbai,25,Standard,Organic
+C100370,2025-06-14,Mumbai,35,Basic,Partner
+C100371,2024-12-16,Chennai,35,Premium,Partner
+C100372,2024-02-22,Pune,18,Basic,App Store
+C100373,2024-08-09,Delhi,25,Basic,Partner
+C100374,2024-02-13,Delhi,25,Standard,Ad Campaign
+C100375,2025-05-23,Surat,18,Premium,Organic
+C100376,2024-12-30,Surat,45,Standard,Partner
+C100377,2023-03-04,Jaipur,25,Basic,Referral
+C100378,2023-09-02,Kolkata,55,Basic,Partner
+C100379,2023-11-06,Ahmedabad,25,Standard,Partner
+C100380,2023-02-28,Surat,45,Premium,App Store
+C100381,2022-09-27,Jaipur,25,Standard,Ad Campaign
+C100382,2024-12-16,Mumbai,55,Standard,Referral
+C100383,2023-06-13,Ahmedabad,35,Premium,App Store
+C100384,2024-07-16,Surat,35,Premium,Ad Campaign
+C100385,2024-03-06,Hyderabad,45,Basic,Partner
+C100386,2025-05-11,Chennai,45,Premium,Referral
+C100387,2023-02-28,Surat,55,Basic,Ad Campaign
+C100388,2025-08-06,Ahmedabad,35,Basic,App Store
+C100389,2022-09-10,Jaipur,35,Basic,Partner
+C100390,2024-07-02,Bengaluru,35,Basic,Partner
+C100391,2023-07-26,Mumbai,35,Basic,Organic
+C100392,2023-03-10,Ahmedabad,55,Premium,App Store
+C100393,2025-03-19,Delhi,45,Standard,Referral
+C100394,2023-10-03,Chennai,45,Premium,Partner
+C100395,2023-11-06,Delhi,18,Standard,Organic
+C100396,2024-11-27,Jaipur,45,Basic,Ad Campaign
+C100397,2023-12-03,Bengaluru,35,Premium,Partner
+C100398,2022-10-06,Mumbai,25,Standard,Ad Campaign
+C100399,2023-11-15,Hyderabad,35,Premium,Partner
+C100400,2023-04-26,Ahmedabad,35,Standard,Ad Campaign
+C100401,2023-10-11,Ahmedabad,45,Basic,App Store
+C100402,2023-05-08,Jaipur,18,Standard,Ad Campaign
+C100403,2023-12-13,Jaipur,55,Basic,Ad Campaign
+C100404,2024-11-22,Surat,25,Basic,Partner
+C100405,2024-07-13,Bengaluru,25,Standard,Partner
+C100406,2023-04-01,Chennai,18,Basic,Ad Campaign
+C100407,2023-06-25,Chennai,35,Standard,App Store
+C100408,2024-08-18,Pune,55,Premium,Referral
+C100409,2023-12-02,Kolkata,55,Premium,Organic
+C100410,2023-05-01,Kolkata,55,Basic,Ad Campaign
+C100411,2025-08-09,Chennai,45,Premium,App Store
+C100412,2023-11-26,Surat,35,Premium,Ad Campaign
+C100413,2023-12-31,Mumbai,25,Basic,Organic
+C100414,2024-06-05,Chennai,25,Standard,Referral
+C100415,2023-03-13,Delhi,35,Premium,Referral
+C100416,2023-10-20,Chennai,25,Premium,Ad Campaign
+C100417,2022-12-31,Delhi,45,Basic,Organic
+C100418,2023-02-17,Jaipur,55,Standard,Ad Campaign
+C100419,2023-02-16,Kolkata,25,Premium,Partner
+C100420,2024-05-29,Pune,45,Basic,Referral
+C100421,2022-09-28,Pune,55,Standard,App Store
+C100422,2022-12-14,Surat,35,Basic,App Store
+C100423,2024-08-27,Bengaluru,35,Premium,App Store
+C100424,2025-02-17,Chennai,45,Basic,Organic
+C100425,2024-01-06,Delhi,45,Premium,Organic
+C100426,2022-09-19,Surat,45,Basic,Referral
+C100427,2023-09-23,Bengaluru,25,Standard,Organic
+C100428,2025-01-30,Chennai,35,Standard,Partner
+C100429,2024-04-15,Pune,25,Premium,Referral
+C100430,2023-11-13,Kolkata,25,Basic,Referral
+C100431,2024-05-06,Bengaluru,55,Basic,Partner
+C100432,2024-06-28,Surat,45,Basic,Partner
+C100433,2024-10-12,Delhi,25,Basic,Partner
+C100434,2025-06-20,Pune,55,Basic,Ad Campaign
+C100435,2025-05-07,Jaipur,18,Basic,App Store
+C100436,2024-03-26,Kolkata,55,Basic,App Store
+C100437,2022-12-10,Chennai,18,Basic,Referral
+C100438,2025-03-13,Bengaluru,18,Standard,Partner
+C100439,2023-01-20,Jaipur,18,Premium,Organic
+C100440,2023-04-14,Delhi,18,Premium,Partner
+C100441,2024-07-07,Kolkata,45,Basic,Referral
+C100442,2023-06-15,Jaipur,25,Basic,App Store
+C100443,2022-11-01,Chennai,25,Standard,Ad Campaign
+C100444,2023-05-14,Mumbai,18,Basic,Partner
+C100445,2024-03-28,Chennai,25,Basic,App Store
+C100446,2024-10-11,Pune,18,Premium,Referral
+C100447,2025-07-29,Bengaluru,25,Standard,Referral
+C100448,2025-01-03,Hyderabad,55,Standard,App Store
+C100449,2023-03-23,Chennai,45,Basic,App Store
+C100450,2024-05-18,Ahmedabad,35,Basic,Partner
+C100451,2024-08-14,Hyderabad,18,Standard,Organic
+C100452,2022-09-14,Hyderabad,55,Basic,Partner
+C100453,2023-01-01,Bengaluru,55,Basic,Ad Campaign
+C100454,2025-04-29,Bengaluru,45,Premium,App Store
+C100455,2024-03-17,Delhi,45,Basic,Ad Campaign
+C100456,2024-12-04,Pune,18,Basic,Ad Campaign
+C100457,2023-01-18,Delhi,18,Basic,Organic
+C100458,2024-11-09,Jaipur,55,Standard,Partner
+C100459,2023-01-01,Jaipur,55,Standard,Referral
+C100460,2022-08-18,Jaipur,45,Premium,Ad Campaign
+C100461,2023-10-30,Mumbai,18,Basic,Ad Campaign
+C100462,2023-02-15,Chennai,18,Standard,Ad Campaign
+C100463,2022-10-11,Surat,55,Standard,Ad Campaign
+C100464,2023-03-20,Bengaluru,35,Basic,Referral
+C100465,2023-02-08,Surat,55,Basic,Partner
+C100466,2024-09-18,Kolkata,35,Premium,Organic
+C100467,2022-12-11,Bengaluru,18,Basic,Ad Campaign
+C100468,2023-01-31,Bengaluru,55,Premium,App Store
+C100469,2024-02-26,Bengaluru,45,Basic,Referral
+C100470,2024-03-21,Surat,25,Basic,Organic
+C100471,2024-01-20,Bengaluru,18,Basic,App Store
+C100472,2022-09-07,Ahmedabad,18,Basic,App Store
+C100473,2022-11-21,Mumbai,55,Standard,App Store
+C100474,2024-04-07,Kolkata,25,Standard,Ad Campaign
+C100475,2024-01-25,Chennai,25,Standard,Partner
+C100476,2023-02-21,Hyderabad,25,Basic,Ad Campaign
+C100477,2025-03-04,Ahmedabad,55,Basic,App Store
+C100478,2024-01-02,Surat,55,Basic,Organic
+C100479,2024-04-16,Pune,35,Basic,Ad Campaign
+C100480,2024-01-31,Ahmedabad,35,Standard,Organic
+C100481,2023-09-22,Hyderabad,35,Standard,Ad Campaign
+C100482,2023-10-25,Jaipur,45,Basic,Partner
+C100483,2025-02-25,Hyderabad,18,Basic,Partner
+C100484,2024-10-30,Pune,35,Basic,Ad Campaign
+C100485,2024-10-05,Ahmedabad,45,Basic,Ad Campaign
+C100486,2024-04-23,Hyderabad,45,Standard,Partner
+C100487,2023-06-17,Chennai,55,Standard,Organic
+C100488,2024-10-01,Surat,25,Basic,Partner
+C100489,2024-05-28,Ahmedabad,25,Basic,Ad Campaign
+C100490,2025-03-31,Ahmedabad,35,Basic,Organic
+C100491,2023-04-13,Pune,18,Basic,Ad Campaign
+C100492,2023-04-28,Kolkata,18,Basic,Referral
+C100493,2023-10-02,Jaipur,18,Standard,Ad Campaign
+C100494,2022-12-29,Jaipur,45,Basic,Partner
+C100495,2023-04-11,Kolkata,45,Basic,App Store
+C100496,2025-04-04,Bengaluru,45,Basic,Partner
+C100497,2024-06-12,Hyderabad,55,Standard,Partner
+C100498,2023-04-02,Surat,45,Basic,Organic
+C100499,2023-06-04,Bengaluru,18,Standard,Referral
+C100500,2025-06-30,Pune,18,Basic,Organic
+C100501,2023-06-22,Mumbai,25,Premium,Ad Campaign
+C100502,2022-12-07,Ahmedabad,18,Basic,App Store
+C100503,2025-07-28,Chennai,45,Basic,Partner
+C100504,2023-08-20,Jaipur,45,Basic,App Store
+C100505,2023-12-07,Delhi,35,Basic,App Store
+C100506,2023-06-03,Jaipur,55,Basic,Ad Campaign
+C100507,2023-04-04,Delhi,18,Basic,Ad Campaign
+C100508,2024-05-15,Pune,55,Basic,App Store
+C100509,2022-11-14,Delhi,18,Standard,Partner
+C100510,2024-05-17,Bengaluru,25,Standard,Ad Campaign
+C100511,2024-01-29,Pune,25,Basic,Partner
+C100512,2023-03-01,Ahmedabad,55,Basic,Ad Campaign
+C100513,2022-11-19,Jaipur,45,Standard,Partner
+C100514,2025-06-11,Bengaluru,35,Premium,Partner
+C100515,2023-06-05,Kolkata,18,Standard,Referral
+C100516,2023-09-21,Delhi,18,Standard,Ad Campaign
+C100517,2023-05-04,Hyderabad,35,Standard,Referral
+C100518,2024-09-05,Ahmedabad,55,Standard,App Store
+C100519,2022-12-26,Chennai,55,Basic,Partner
+C100520,2024-11-21,Mumbai,18,Standard,Partner
+C100521,2022-08-12,Kolkata,25,Premium,Organic
+C100522,2025-06-15,Mumbai,35,Basic,Ad Campaign
+C100523,2023-05-26,Kolkata,18,Premium,App Store
+C100524,2025-06-15,Jaipur,25,Basic,App Store
+C100525,2025-02-19,Chennai,55,Basic,Ad Campaign
+C100526,2023-03-16,Hyderabad,25,Premium,Organic
+C100527,2024-11-05,Kolkata,45,Standard,Organic
+C100528,2023-01-07,Delhi,18,Standard,Ad Campaign
+C100529,2024-08-02,Chennai,35,Premium,Partner
+C100530,2025-04-29,Hyderabad,25,Standard,Partner
+C100531,2024-02-24,Mumbai,55,Standard,App Store
+C100532,2023-06-25,Chennai,25,Standard,Ad Campaign
+C100533,2023-10-09,Delhi,55,Basic,Partner
+C100534,2024-06-02,Chennai,45,Standard,Organic
+C100535,2023-01-21,Bengaluru,55,Basic,Ad Campaign
+C100536,2023-10-10,Bengaluru,35,Premium,App Store
+C100537,2023-09-18,Mumbai,45,Premium,Partner
+C100538,2023-06-25,Pune,25,Standard,Partner
+C100539,2024-01-18,Ahmedabad,18,Basic,Organic
+C100540,2023-03-30,Bengaluru,55,Basic,Partner
+C100541,2024-03-11,Ahmedabad,35,Premium,Partner
+C100542,2025-02-23,Ahmedabad,18,Basic,Organic
+C100543,2022-12-20,Surat,18,Premium,Organic
+C100544,2025-07-01,Mumbai,45,Standard,App Store
+C100545,2025-04-25,Delhi,25,Standard,Ad Campaign
+C100546,2023-08-24,Mumbai,18,Basic,Partner
+C100547,2024-05-07,Pune,35,Premium,Partner
+C100548,2025-03-22,Hyderabad,55,Premium,Organic
+C100549,2025-05-19,Bengaluru,55,Basic,App Store
+C100550,2025-06-07,Jaipur,55,Basic,Partner
+C100551,2024-03-21,Surat,45,Basic,App Store
+C100552,2024-06-27,Jaipur,35,Basic,Referral
+C100553,2025-06-29,Kolkata,18,Basic,Organic
+C100554,2024-10-01,Delhi,35,Basic,Partner
+C100555,2024-04-08,Pune,45,Premium,App Store
+C100556,2024-11-24,Hyderabad,45,Standard,Ad Campaign
+C100557,2022-12-14,Pune,25,Standard,App Store
+C100558,2024-12-18,Delhi,35,Standard,App Store
+C100559,2024-05-20,Mumbai,55,Basic,Referral
+C100560,2022-12-31,Hyderabad,45,Basic,Partner
+C100561,2024-03-03,Kolkata,45,Basic,Partner
+C100562,2023-07-16,Surat,25,Standard,Organic
+C100563,2024-08-31,Ahmedabad,55,Standard,App Store
+C100564,2024-12-18,Delhi,45,Premium,Ad Campaign
+C100565,2024-09-08,Delhi,18,Premium,Referral
+C100566,2023-11-11,Ahmedabad,55,Standard,App Store
+C100567,2024-12-31,Surat,35,Basic,Ad Campaign
+C100568,2025-06-18,Jaipur,25,Basic,Organic
+C100569,2023-11-10,Mumbai,18,Standard,Referral
+C100570,2023-07-03,Jaipur,18,Basic,Partner
+C100571,2023-05-20,Surat,35,Basic,Partner
+C100572,2024-06-29,Hyderabad,25,Basic,App Store
+C100573,2025-03-07,Bengaluru,45,Basic,Referral
+C100574,2024-03-30,Pune,25,Standard,Ad Campaign
+C100575,2025-01-13,Kolkata,45,Basic,Organic
+C100576,2023-12-01,Mumbai,35,Basic,Organic
+C100577,2024-12-05,Surat,35,Basic,Partner
+C100578,2025-05-17,Chennai,18,Standard,Partner
+C100579,2023-08-29,Hyderabad,18,Standard,Organic
+C100580,2022-08-14,Surat,18,Basic,Partner
+C100581,2023-03-16,Kolkata,35,Premium,Organic
+C100582,2023-07-13,Bengaluru,45,Basic,App Store
+C100583,2025-03-21,Delhi,35,Basic,Ad Campaign
+C100584,2022-10-08,Jaipur,35,Standard,Referral
+C100585,2023-09-11,Chennai,18,Premium,App Store
+C100586,2025-07-15,Delhi,25,Premium,Referral
+C100587,2023-04-02,Jaipur,18,Basic,Organic
+C100588,2022-11-10,Jaipur,25,Standard,Ad Campaign
+C100589,2025-01-05,Jaipur,45,Basic,App Store
+C100590,2023-03-06,Jaipur,45,Basic,Partner
+C100591,2023-07-30,Jaipur,55,Basic,Referral
+C100592,2023-01-11,Mumbai,55,Standard,Referral
+C100593,2024-09-30,Kolkata,55,Basic,Partner
+C100594,2023-03-02,Ahmedabad,45,Premium,App Store
+C100595,2024-08-14,Mumbai,18,Basic,Partner
+C100596,2022-09-06,Kolkata,18,Premium,Referral
+C100597,2024-02-03,Chennai,18,Basic,Partner
+C100598,2022-11-23,Pune,35,Standard,Referral
+C100599,2022-12-31,Mumbai,55,Basic,App Store
+C100600,2023-03-01,Chennai,18,Basic,Ad Campaign
+C100601,2024-02-07,Delhi,55,Standard,App Store
+C100602,2023-10-19,Chennai,55,Basic,Partner
+C100603,2024-03-25,Hyderabad,35,Basic,Partner
+C100604,2025-02-13,Delhi,45,Standard,App Store
+C100605,2024-01-16,Surat,18,Standard,Ad Campaign
+C100606,2023-01-29,Chennai,35,Standard,Referral
+C100607,2024-03-28,Bengaluru,45,Premium,Partner
+C100608,2023-01-01,Mumbai,45,Standard,Partner
+C100609,2023-06-25,Chennai,18,Standard,App Store
+C100610,2023-09-21,Jaipur,55,Basic,Referral
+C100611,2025-06-12,Chennai,25,Basic,Referral
+C100612,2022-11-01,Bengaluru,55,Standard,Partner
+C100613,2023-10-14,Ahmedabad,55,Basic,Referral
+C100614,2024-08-02,Ahmedabad,25,Premium,App Store
+C100615,2022-11-15,Bengaluru,45,Premium,Ad Campaign
+C100616,2024-06-01,Bengaluru,25,Basic,Organic
+C100617,2023-08-14,Delhi,25,Basic,Ad Campaign
+C100618,2024-02-27,Ahmedabad,35,Standard,App Store
+C100619,2023-09-12,Mumbai,35,Standard,Ad Campaign
+C100620,2024-01-15,Pune,35,Basic,Organic
+C100621,2024-01-22,Hyderabad,45,Basic,Ad Campaign
+C100622,2025-07-20,Mumbai,25,Premium,Partner
+C100623,2022-09-16,Hyderabad,18,Standard,App Store
+C100624,2024-07-14,Mumbai,25,Basic,Referral
+C100625,2025-02-15,Chennai,45,Standard,Partner
+C100626,2024-04-02,Pune,35,Standard,Partner
+C100627,2023-04-30,Jaipur,45,Standard,Organic
+C100628,2022-11-13,Kolkata,35,Basic,Ad Campaign
+C100629,2024-04-04,Jaipur,45,Basic,App Store
+C100630,2022-12-08,Ahmedabad,18,Basic,Organic
+C100631,2022-11-08,Pune,35,Standard,Organic
+C100632,2023-02-04,Mumbai,35,Basic,Ad Campaign
+C100633,2025-07-05,Hyderabad,25,Premium,App Store
+C100634,2025-01-31,Pune,45,Standard,Partner
+C100635,2023-12-16,Chennai,55,Basic,App Store
+C100636,2024-05-13,Mumbai,55,Basic,Organic
+C100637,2023-05-04,Chennai,25,Premium,Organic
+C100638,2024-03-29,Pune,45,Standard,Referral
+C100639,2023-11-21,Delhi,18,Standard,Ad Campaign
+C100640,2023-07-16,Chennai,25,Basic,Referral
+C100641,2022-12-14,Kolkata,35,Basic,Organic
+C100642,2022-08-18,Kolkata,18,Basic,Partner
+C100643,2023-09-05,Ahmedabad,45,Standard,Organic
+C100644,2023-03-22,Kolkata,35,Premium,App Store
+C100645,2023-10-02,Chennai,55,Premium,App Store
+C100646,2023-08-20,Bengaluru,45,Standard,Partner
+C100647,2023-01-23,Ahmedabad,35,Standard,Partner
+C100648,2024-02-02,Ahmedabad,45,Basic,Referral
+C100649,2023-11-21,Chennai,35,Basic,Partner
+C100650,2024-03-13,Jaipur,45,Basic,Organic
+C100651,2024-04-24,Pune,55,Standard,Ad Campaign
+C100652,2024-12-05,Delhi,25,Standard,App Store
+C100653,2024-07-11,Kolkata,35,Basic,App Store
+C100654,2023-11-02,Delhi,35,Premium,Organic
+C100655,2024-12-08,Kolkata,55,Standard,Ad Campaign
+C100656,2024-07-26,Surat,25,Standard,Partner
+C100657,2024-07-13,Bengaluru,45,Basic,Referral
+C100658,2024-05-23,Jaipur,35,Basic,Ad Campaign
+C100659,2022-11-22,Pune,25,Standard,Organic
+C100660,2024-01-21,Chennai,45,Basic,Partner
+C100661,2022-08-31,Delhi,35,Premium,Partner
+C100662,2024-01-08,Delhi,35,Standard,Partner
+C100663,2025-01-16,Chennai,45,Basic,Ad Campaign
+C100664,2024-07-08,Pune,55,Basic,Partner
+C100665,2023-12-12,Pune,25,Basic,Ad Campaign
+C100666,2024-05-01,Ahmedabad,35,Basic,Organic
+C100667,2023-08-01,Surat,45,Basic,Referral
+C100668,2024-08-07,Kolkata,35,Standard,Ad Campaign
+C100669,2023-11-29,Bengaluru,45,Standard,Organic
+C100670,2025-07-12,Ahmedabad,35,Basic,Ad Campaign
+C100671,2022-08-12,Chennai,18,Basic,Organic
+C100672,2024-11-23,Ahmedabad,55,Standard,Referral
+C100673,2024-01-26,Mumbai,25,Standard,App Store
+C100674,2025-05-08,Chennai,55,Standard,Referral
+C100675,2025-04-20,Surat,55,Basic,App Store
+C100676,2023-12-20,Kolkata,25,Standard,App Store
+C100677,2024-11-24,Pune,55,Standard,Partner
+C100678,2022-11-08,Mumbai,18,Basic,Ad Campaign
+C100679,2025-01-11,Delhi,45,Basic,Partner
+C100680,2025-07-15,Kolkata,25,Basic,Organic
+C100681,2024-01-05,Chennai,45,Premium,Organic
+C100682,2022-12-22,Jaipur,35,Standard,Organic
+C100683,2022-12-03,Bengaluru,18,Premium,Partner
+C100684,2023-02-19,Mumbai,45,Basic,Referral
+C100685,2023-09-12,Bengaluru,45,Standard,Partner
+C100686,2024-07-28,Surat,25,Premium,Partner
+C100687,2025-04-26,Ahmedabad,35,Basic,Referral
+C100688,2024-03-10,Mumbai,25,Basic,Referral
+C100689,2022-12-05,Bengaluru,35,Standard,Referral
+C100690,2024-12-19,Delhi,25,Premium,Ad Campaign
+C100691,2025-03-29,Hyderabad,45,Standard,Partner
+C100692,2023-05-12,Chennai,45,Standard,Ad Campaign
+C100693,2022-11-06,Chennai,18,Standard,App Store
+C100694,2025-03-11,Kolkata,45,Standard,App Store
+C100695,2025-04-22,Surat,55,Standard,Partner
+C100696,2024-10-03,Mumbai,45,Standard,Organic
+C100697,2024-10-08,Surat,55,Standard,Referral
+C100698,2023-11-26,Bengaluru,45,Premium,Ad Campaign
+C100699,2025-02-16,Ahmedabad,55,Basic,App Store
+C100700,2024-03-19,Chennai,55,Basic,Partner
+C100701,2024-12-10,Chennai,45,Basic,Organic
+C100702,2023-04-10,Ahmedabad,55,Basic,Partner
+C100703,2024-05-04,Delhi,18,Standard,Organic
+C100704,2022-09-04,Surat,35,Standard,Partner
+C100705,2023-06-22,Bengaluru,55,Basic,Referral
+C100706,2023-01-30,Jaipur,55,Standard,Referral
+C100707,2023-02-15,Chennai,18,Basic,Organic
+C100708,2023-12-10,Kolkata,18,Standard,Partner
+C100709,2023-03-15,Chennai,25,Standard,Referral
+C100710,2023-11-23,Pune,35,Premium,Partner
+C100711,2025-04-08,Hyderabad,25,Standard,Partner
+C100712,2025-01-18,Delhi,55,Standard,Referral
+C100713,2024-06-10,Mumbai,18,Standard,App Store
+C100714,2024-06-03,Bengaluru,55,Standard,App Store
+C100715,2024-02-15,Ahmedabad,45,Premium,Partner
+C100716,2025-02-24,Jaipur,35,Basic,App Store
+C100717,2024-09-22,Kolkata,45,Basic,Ad Campaign
+C100718,2024-04-05,Jaipur,18,Basic,Referral
+C100719,2024-08-19,Delhi,18,Basic,App Store
+C100720,2025-03-09,Pune,18,Standard,App Store
+C100721,2024-09-23,Pune,35,Standard,Partner
+C100722,2025-08-04,Ahmedabad,25,Basic,Organic
+C100723,2023-04-26,Hyderabad,55,Standard,App Store
+C100724,2023-01-30,Surat,55,Basic,Organic
+C100725,2022-12-21,Pune,55,Basic,Referral
+C100726,2023-12-22,Ahmedabad,55,Basic,Organic
+C100727,2025-06-04,Hyderabad,55,Standard,App Store
+C100728,2024-04-22,Delhi,25,Basic,Ad Campaign
+C100729,2023-12-28,Bengaluru,45,Standard,Ad Campaign
+C100730,2024-01-08,Delhi,35,Basic,Referral
+C100731,2023-01-23,Ahmedabad,45,Basic,App Store
+C100732,2025-03-17,Bengaluru,45,Basic,Referral
+C100733,2024-04-18,Ahmedabad,55,Premium,Partner
+C100734,2024-02-15,Delhi,55,Basic,Partner
+C100735,2024-06-30,Chennai,25,Premium,Organic
+C100736,2023-03-23,Chennai,35,Standard,Referral
+C100737,2024-12-17,Delhi,18,Premium,Ad Campaign
+C100738,2024-05-06,Jaipur,45,Basic,Referral
+C100739,2024-10-08,Jaipur,18,Premium,Organic
+C100740,2024-02-12,Pune,35,Standard,App Store
+C100741,2024-10-22,Pune,45,Premium,Referral
+C100742,2025-03-16,Bengaluru,18,Basic,Organic
+C100743,2025-04-09,Bengaluru,18,Basic,Partner
+C100744,2024-09-04,Chennai,25,Basic,Ad Campaign
+C100745,2023-11-19,Jaipur,35,Premium,App Store
+C100746,2023-12-27,Hyderabad,35,Basic,Referral
+C100747,2023-02-22,Delhi,35,Basic,Referral
+C100748,2024-11-28,Hyderabad,45,Basic,Ad Campaign
+C100749,2022-12-24,Bengaluru,25,Standard,Partner
+C100750,2023-11-26,Hyderabad,55,Premium,Referral
+C100751,2023-05-08,Ahmedabad,45,Basic,Ad Campaign
+C100752,2024-01-30,Mumbai,35,Basic,Ad Campaign
+C100753,2022-10-20,Chennai,45,Standard,App Store
+C100754,2022-11-02,Jaipur,18,Standard,Ad Campaign
+C100755,2023-02-25,Surat,45,Basic,Ad Campaign
+C100756,2025-02-26,Chennai,45,Standard,Ad Campaign
+C100757,2025-05-20,Ahmedabad,35,Basic,Referral
+C100758,2023-03-09,Jaipur,18,Standard,Ad Campaign
+C100759,2023-10-19,Bengaluru,35,Basic,Ad Campaign
+C100760,2024-03-15,Surat,18,Basic,Ad Campaign
+C100761,2025-06-18,Delhi,18,Standard,Ad Campaign
+C100762,2025-02-03,Delhi,18,Basic,Partner
+C100763,2024-04-28,Pune,35,Standard,Referral
+C100764,2025-06-28,Kolkata,18,Basic,Ad Campaign
+C100765,2024-02-05,Ahmedabad,25,Standard,Organic
+C100766,2025-05-19,Jaipur,25,Basic,Organic
+C100767,2024-08-16,Kolkata,55,Standard,Organic
+C100768,2022-12-20,Kolkata,25,Standard,App Store
+C100769,2022-09-12,Surat,55,Basic,Partner
+C100770,2023-02-16,Delhi,25,Premium,Organic
+C100771,2024-01-18,Bengaluru,35,Basic,Partner
+C100772,2024-08-03,Chennai,55,Basic,Organic
+C100773,2023-03-01,Delhi,45,Basic,App Store
+C100774,2022-11-06,Ahmedabad,45,Basic,Referral
+C100775,2025-02-04,Ahmedabad,25,Basic,Partner
+C100776,2022-12-21,Jaipur,45,Basic,Referral
+C100777,2023-08-28,Chennai,25,Standard,App Store
+C100778,2023-04-26,Bengaluru,25,Basic,Partner
+C100779,2023-09-27,Jaipur,45,Standard,Referral
+C100780,2023-10-22,Surat,45,Standard,App Store
+C100781,2025-01-07,Bengaluru,18,Basic,Ad Campaign
+C100782,2024-09-14,Bengaluru,55,Standard,Partner
+C100783,2023-10-04,Kolkata,25,Basic,Referral
+C100784,2023-04-19,Jaipur,45,Basic,App Store
+C100785,2022-10-30,Mumbai,55,Basic,Ad Campaign
+C100786,2023-12-28,Delhi,45,Standard,Partner
+C100787,2023-05-12,Jaipur,45,Basic,Ad Campaign
+C100788,2025-05-26,Bengaluru,18,Standard,Organic
+C100789,2023-01-21,Pune,25,Basic,Partner
+C100790,2025-02-10,Bengaluru,25,Basic,App Store
+C100791,2023-11-04,Bengaluru,35,Standard,App Store
+C100792,2024-03-11,Chennai,18,Standard,Partner
+C100793,2023-10-17,Hyderabad,55,Basic,Organic
+C100794,2024-12-15,Chennai,18,Premium,Partner
+C100795,2023-05-05,Jaipur,55,Premium,Referral
+C100796,2022-09-21,Pune,25,Basic,App Store
+C100797,2025-08-07,Delhi,35,Premium,Ad Campaign
+C100798,2023-01-06,Pune,35,Basic,App Store
+C100799,2023-04-16,Hyderabad,25,Basic,Organic
+C100800,2025-04-20,Jaipur,45,Premium,Partner
+C100801,2024-07-21,Pune,18,Premium,App Store
+C100802,2022-09-13,Bengaluru,35,Basic,Referral
+C100803,2023-07-31,Pune,45,Basic,Organic
+C100804,2022-10-24,Surat,55,Standard,Organic
+C100805,2023-02-16,Jaipur,35,Basic,Ad Campaign
+C100806,2025-04-26,Delhi,55,Standard,App Store
+C100807,2024-06-19,Jaipur,45,Standard,Partner
+C100808,2024-02-10,Bengaluru,55,Basic,Organic
+C100809,2024-11-14,Surat,45,Basic,Referral
+C100810,2023-12-29,Surat,55,Standard,Referral
+C100811,2023-02-24,Bengaluru,18,Basic,Partner
+C100812,2022-11-21,Bengaluru,35,Premium,Referral
+C100813,2024-12-04,Surat,35,Basic,Ad Campaign
+C100814,2025-06-11,Surat,45,Standard,Partner
+C100815,2024-04-06,Chennai,55,Basic,Referral
+C100816,2024-09-19,Surat,25,Premium,Ad Campaign
+C100817,2023-11-12,Mumbai,35,Standard,Referral
+C100818,2025-07-12,Mumbai,55,Standard,App Store
+C100819,2023-04-27,Delhi,55,Basic,Partner
+C100820,2025-01-31,Mumbai,18,Standard,Referral
+C100821,2024-05-06,Surat,25,Basic,Referral
+C100822,2024-12-20,Pune,35,Basic,Ad Campaign
+C100823,2023-01-07,Hyderabad,18,Standard,App Store
+C100824,2024-12-12,Surat,25,Basic,App Store
+C100825,2024-09-28,Kolkata,35,Basic,Ad Campaign
+C100826,2022-10-24,Surat,18,Standard,App Store
+C100827,2023-12-21,Mumbai,25,Standard,Referral
+C100828,2022-10-02,Ahmedabad,35,Basic,Referral
+C100829,2024-01-28,Jaipur,25,Standard,App Store
+C100830,2023-04-12,Pune,55,Standard,Referral
+C100831,2022-11-25,Pune,45,Basic,App Store
+C100832,2022-12-16,Ahmedabad,45,Standard,Ad Campaign
+C100833,2024-03-28,Hyderabad,55,Basic,Partner
+C100834,2023-01-17,Kolkata,25,Standard,Ad Campaign
+C100835,2024-10-17,Pune,55,Basic,Partner
+C100836,2023-06-16,Ahmedabad,45,Standard,Ad Campaign
+C100837,2024-07-15,Delhi,45,Basic,Organic
+C100838,2022-10-04,Mumbai,25,Basic,Referral
+C100839,2024-11-03,Bengaluru,45,Basic,Ad Campaign
+C100840,2025-03-20,Ahmedabad,55,Basic,Partner
+C100841,2024-01-22,Kolkata,25,Basic,App Store
+C100842,2023-04-13,Ahmedabad,55,Basic,App Store
+C100843,2023-09-13,Ahmedabad,25,Standard,Ad Campaign
+C100844,2022-10-05,Hyderabad,45,Basic,Ad Campaign
+C100845,2024-02-09,Chennai,35,Standard,Ad Campaign
+C100846,2025-08-04,Surat,25,Basic,App Store
+C100847,2024-01-08,Bengaluru,25,Basic,Organic
+C100848,2023-12-07,Chennai,35,Basic,Ad Campaign
+C100849,2022-11-11,Chennai,45,Basic,App Store
+C100850,2024-10-09,Chennai,55,Premium,App Store
+C100851,2023-02-07,Kolkata,18,Basic,Ad Campaign
+C100852,2022-11-22,Bengaluru,35,Basic,Partner
+C100853,2023-09-03,Chennai,18,Standard,Partner
+C100854,2023-09-29,Jaipur,45,Premium,Referral
+C100855,2023-06-29,Jaipur,25,Standard,App Store
+C100856,2023-01-20,Delhi,25,Standard,Referral
+C100857,2023-10-20,Chennai,45,Basic,Referral
+C100858,2024-07-19,Hyderabad,55,Basic,Partner
+C100859,2024-04-07,Ahmedabad,55,Standard,Partner
+C100860,2023-06-17,Delhi,45,Standard,Organic
+C100861,2024-04-18,Pune,45,Basic,App Store
+C100862,2023-04-21,Ahmedabad,45,Basic,Organic
+C100863,2025-05-12,Hyderabad,45,Basic,Ad Campaign
+C100864,2023-10-28,Bengaluru,45,Premium,Organic
+C100865,2022-12-15,Delhi,45,Basic,Ad Campaign
+C100866,2023-06-21,Mumbai,25,Basic,Referral
+C100867,2023-06-11,Pune,18,Basic,App Store
+C100868,2024-10-02,Kolkata,55,Basic,Organic
+C100869,2022-10-30,Surat,18,Basic,App Store
+C100870,2025-05-26,Kolkata,25,Basic,Referral
+C100871,2024-11-24,Hyderabad,35,Standard,Referral
+C100872,2022-10-16,Bengaluru,18,Basic,Referral
+C100873,2023-09-30,Chennai,35,Standard,Referral
+C100874,2025-01-16,Surat,25,Basic,Partner
+C100875,2023-02-20,Chennai,55,Standard,Partner
+C100876,2025-01-17,Hyderabad,35,Basic,Referral
+C100877,2022-08-28,Bengaluru,25,Premium,Referral
+C100878,2023-01-17,Ahmedabad,45,Standard,Organic
+C100879,2025-07-09,Jaipur,55,Basic,App Store
+C100880,2024-10-18,Ahmedabad,45,Basic,Organic
+C100881,2023-04-23,Ahmedabad,55,Basic,Referral
+C100882,2024-09-27,Pune,55,Standard,Partner
+C100883,2025-03-09,Ahmedabad,18,Premium,Ad Campaign
+C100884,2022-12-22,Mumbai,55,Basic,Partner
+C100885,2024-02-14,Delhi,18,Standard,Partner
+C100886,2023-09-16,Kolkata,35,Basic,Partner
+C100887,2023-05-18,Jaipur,55,Basic,Ad Campaign
+C100888,2025-02-26,Ahmedabad,35,Premium,Referral
+C100889,2023-10-07,Hyderabad,55,Basic,Referral
+C100890,2022-08-13,Hyderabad,18,Basic,Referral
+C100891,2023-06-23,Surat,45,Premium,Partner
+C100892,2023-10-31,Chennai,55,Standard,App Store
+C100893,2022-11-14,Mumbai,25,Standard,App Store
+C100894,2025-05-28,Mumbai,45,Standard,Organic
+C100895,2025-03-22,Pune,18,Basic,App Store
+C100896,2024-04-16,Ahmedabad,25,Standard,Partner
+C100897,2023-12-30,Surat,35,Basic,Referral
+C100898,2024-05-01,Ahmedabad,18,Premium,App Store
+C100899,2025-02-05,Pune,45,Basic,Ad Campaign
+C100900,2023-03-05,Jaipur,35,Basic,Ad Campaign
+C100901,2025-01-20,Mumbai,35,Standard,Referral
+C100902,2025-01-16,Delhi,18,Standard,App Store
+C100903,2023-02-13,Kolkata,45,Standard,Partner
+C100904,2024-09-03,Bengaluru,18,Basic,Partner
+C100905,2023-12-05,Pune,25,Basic,App Store
+C100906,2025-06-11,Chennai,25,Basic,Organic
+C100907,2025-05-07,Kolkata,55,Basic,Organic
+C100908,2023-10-15,Chennai,35,Standard,Ad Campaign
+C100909,2025-04-17,Mumbai,55,Standard,Referral
+C100910,2023-12-18,Kolkata,45,Premium,Ad Campaign
+C100911,2023-08-06,Mumbai,25,Basic,Referral
+C100912,2023-07-04,Surat,55,Premium,Referral
+C100913,2023-03-11,Jaipur,25,Basic,Referral
+C100914,2024-10-15,Hyderabad,25,Basic,Referral
+C100915,2024-03-27,Chennai,25,Basic,Partner
+C100916,2022-08-18,Jaipur,18,Basic,App Store
+C100917,2023-04-19,Pune,55,Basic,Referral
+C100918,2024-08-06,Delhi,35,Standard,App Store
+C100919,2024-08-26,Kolkata,55,Standard,Referral
+C100920,2024-08-16,Jaipur,35,Standard,Partner
+C100921,2025-03-01,Ahmedabad,55,Standard,Partner
+C100922,2023-06-18,Jaipur,55,Standard,App Store
+C100923,2024-04-03,Pune,25,Premium,App Store
+C100924,2022-10-25,Surat,35,Standard,Ad Campaign
+C100925,2024-10-20,Surat,35,Basic,Ad Campaign
+C100926,2024-04-21,Delhi,35,Standard,Organic
+C100927,2023-01-08,Bengaluru,55,Standard,Ad Campaign
+C100928,2024-03-07,Delhi,35,Basic,Ad Campaign
+C100929,2023-01-11,Kolkata,55,Standard,Referral
+C100930,2024-03-05,Chennai,18,Basic,Organic
+C100931,2025-07-21,Chennai,25,Basic,Ad Campaign
+C100932,2022-12-31,Jaipur,45,Standard,Ad Campaign
+C100933,2023-12-29,Chennai,18,Basic,App Store
+C100934,2024-09-20,Bengaluru,35,Standard,Organic
+C100935,2025-03-11,Hyderabad,25,Standard,Organic
+C100936,2023-02-17,Surat,25,Premium,Organic
+C100937,2023-09-02,Jaipur,25,Basic,App Store
+C100938,2023-12-06,Kolkata,25,Standard,Partner
+C100939,2023-03-25,Jaipur,35,Basic,Organic
+C100940,2024-03-15,Mumbai,25,Standard,Organic
+C100941,2023-01-17,Mumbai,45,Premium,App Store
+C100942,2023-11-30,Mumbai,45,Premium,Partner
+C100943,2024-06-28,Bengaluru,25,Basic,Organic
+C100944,2023-06-14,Chennai,55,Basic,Organic
+C100945,2022-11-24,Ahmedabad,35,Basic,Referral
+C100946,2025-01-03,Jaipur,45,Premium,Partner
+C100947,2024-04-11,Ahmedabad,45,Basic,Ad Campaign
+C100948,2023-06-20,Bengaluru,45,Basic,Organic
+C100949,2023-08-05,Surat,18,Standard,App Store
+C100950,2023-12-13,Jaipur,18,Basic,Referral
+C100951,2023-12-14,Bengaluru,45,Basic,Ad Campaign
+C100952,2025-06-26,Chennai,55,Basic,Ad Campaign
+C100953,2023-05-22,Surat,35,Standard,Referral
+C100954,2024-01-25,Chennai,35,Basic,App Store
+C100955,2025-07-24,Bengaluru,45,Premium,Ad Campaign
+C100956,2025-05-01,Kolkata,45,Basic,Ad Campaign
+C100957,2022-10-27,Surat,35,Basic,Partner
+C100958,2024-01-01,Pune,55,Basic,Ad Campaign
+C100959,2024-04-25,Surat,18,Standard,Organic
+C100960,2023-08-19,Chennai,18,Basic,Organic
+C100961,2024-05-18,Jaipur,45,Basic,Referral
+C100962,2024-07-16,Jaipur,35,Standard,Referral
+C100963,2024-03-14,Jaipur,18,Basic,App Store
+C100964,2024-11-02,Ahmedabad,55,Basic,App Store
+C100965,2025-01-23,Surat,45,Standard,Partner
+C100966,2025-05-21,Pune,25,Standard,Referral
+C100967,2023-11-16,Ahmedabad,45,Basic,Partner
+C100968,2023-02-19,Mumbai,25,Standard,App Store
+C100969,2025-06-02,Chennai,45,Basic,Ad Campaign
+C100970,2023-07-24,Chennai,35,Standard,Partner
+C100971,2024-11-13,Delhi,35,Premium,Ad Campaign
+C100972,2025-02-06,Kolkata,35,Basic,Partner
+C100973,2023-12-14,Surat,35,Basic,Partner
+C100974,2023-10-10,Pune,55,Basic,App Store
+C100975,2023-04-12,Mumbai,55,Basic,Partner
+C100976,2024-08-15,Surat,25,Standard,App Store
+C100977,2024-06-24,Ahmedabad,55,Standard,Partner
+C100978,2024-11-12,Pune,45,Basic,Partner
+C100979,2023-07-22,Surat,35,Standard,Referral
+C100980,2022-08-18,Surat,18,Standard,Referral
+C100981,2022-10-17,Hyderabad,18,Basic,App Store
+C100982,2024-01-29,Mumbai,18,Standard,Partner
+C100983,2024-09-07,Surat,45,Basic,Ad Campaign
+C100984,2024-03-01,Ahmedabad,18,Basic,Organic
+C100985,2022-11-27,Bengaluru,18,Standard,App Store
+C100986,2023-12-14,Jaipur,25,Premium,Referral
+C100987,2023-09-16,Surat,45,Basic,Referral
+C100988,2024-12-17,Kolkata,45,Standard,App Store
+C100989,2022-12-24,Bengaluru,18,Standard,Referral
+C100990,2025-03-08,Hyderabad,45,Basic,Ad Campaign
+C100991,2024-10-25,Mumbai,25,Basic,Referral
+C100992,2024-05-04,Surat,25,Basic,Organic
+C100993,2023-05-19,Delhi,35,Standard,Organic
+C100994,2023-07-22,Hyderabad,25,Standard,Partner
+C100995,2025-02-06,Mumbai,35,Basic,Ad Campaign
+C100996,2023-05-24,Ahmedabad,18,Standard,Referral
+C100997,2025-07-12,Chennai,35,Basic,Referral
+C100998,2024-02-15,Kolkata,35,Premium,App Store
+C100999,2024-11-29,Bengaluru,18,Basic,Partner
