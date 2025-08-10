@@ -25,7 +25,7 @@ The analysis is based on three main tables:
 
 ---
 
-📊 Findings & Conclusion
+## 📊 Findings & Conclusion
 
 - Premium customers show higher retention rates and better payment success compared to Basic users.
 - Technical issues are the most common for Premium members, while Basic users face more account-related problems.
