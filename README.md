@@ -16,7 +16,6 @@ This project uses **SQL**  to analyzes customer, usage, payment, and support tic
 ---
 
 ## 🗂 Dataset
-The analysis is based on three main tables:
 
 1. **customers.csv** – Customer details including signup date, location, age, subscription type, and signup channel.
 2. **usage.csv** – Platform usage data including activity date, minutes used, device, content category, and platform.
