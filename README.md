@@ -1,5 +1,9 @@
 # 📊 Customer Insights and Revenue Optimization Analysis
 
+![]([](https://github.com/Stylishaditya/Customer-Subscription-Performance-Analysis/blob/b7afba1cd7c97c054cd2543ea67ce854fc27b505/Logo.png)
+)
+
+
 ## 📌 Project Overview
 This project uses **SQL**  to analyzes customer, usage, payment, and support ticket data for a subscription-based business.The aim is to answer key business questions that provide insights into customer behavior, revenue trends, platform performance, and support efficiency.
 
