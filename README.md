@@ -22,7 +22,7 @@ The analysis is based on three main tables:
 - **customers** — stores customer profile and subscription details.
 - **payments** —  amount enables revenue calculations and allows for trend analysis.
 - **support** — contains customer support tickets, issues, and resolution details.
-- - **usagedata** — records daily customer usage activity and platform information.
+- **usagedata** — records daily customer usage activity and platform information.
 
 ---
 
