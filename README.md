@@ -1,8 +1,7 @@
 # 📊 Customer Insights and Revenue Optimization Analysis
 
 ## 📌 Project Overview
-This project uses **SQL**  to analyzes customer, usage, payment, and support ticket data for a subscription-based business.  
-The aim is to answer key business questions that provide insights into customer behavior, revenue trends, platform performance, and support efficiency.
+This project uses **SQL**  to analyzes customer, usage, payment, and support ticket data for a subscription-based business.The aim is to answer key business questions that provide insights into customer behavior, revenue trends, platform performance, and support efficiency.
 
 ---
 
